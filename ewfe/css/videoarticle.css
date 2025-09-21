@@ -31,7 +31,7 @@
 	transition: opacity .1s ease-in-out;
 }
 .thumb:hover {
-	opacity: .8;
+	opacity: 1;
 	outline: #00b7ff 3.20px solid;
 }
 .thumb-info {
@@ -91,4 +91,5 @@
    grid-template-columns: repeat(1,1fr);
   }
 }
+
 
